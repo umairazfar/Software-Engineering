@@ -1,0 +1,50 @@
+
+Group: 1
+m.hussain_19649@khi.iba.edu.pk
+s.kazi_18659@khi.iba.edu.pk
+m.hashim_18642@khi.iba.edu.pk
+s.azim_18553@khi.iba.edu.pk
+saba.fatima.18556@khi.iba.edu.pk
+m.khan_19731@khi.iba.edu.pk
+m.edhi_18584@khi.iba.edu.pk
+s.raza_19681@khi.iba.edu.pk
+
+Group: 2
+a.saifullah_19655@khi.iba.edu.pk
+k.khan_19733@khi.iba.edu.pk
+h.mumtaz_19702@khi.iba.edu.pk
+m.khan_18596@khi.iba.edu.pk
+m.tanveer_18595@khi.iba.edu.pk
+e.gul_18651@khi.iba.edu.pk
+j.asif_19336@khi.iba.edu.pk
+m.sabahat_19748@khi.iba.edu.pk
+
+Group: 3
+t.hassan_19737@khi.iba.edu.pk
+s.memon_19175@khi.iba.edu.pk
+m.jawaid_18725@khi.iba.edu.pk
+a.hadi_19723@khi.iba.edu.pk
+r.ahmed_19749@khi.iba.edu.pk
+s.rehman_18630@khi.iba.edu.pk
+w.shahzad_19732@khi.iba.edu.pk
+m.jaffer@khi.iba.edu.pk
+
+Group: 4
+m.umer.17865@khi.iba.edu.pk
+i.naqi_19744@khi.iba.edu.pk
+s.bawany_19686@khi.iba.edu.pk
+m.shah_19714@khi.iba.edu.pk
+p.malhi_19228@khi.iba.edu.pk
+z.abbas.19688@khi.iba.edu.pk
+m.ahmed_19717@khi.iba.edu.pk
+s.ahmed_18635@khi.iba.edu.pk
+
+Group: 5
+h.aamir_18557@khi.iba.edu.pk
+s.ahris_18573@khi.iba.edu.pk
+f.nadeem_18567@khi.iba.edu.pk
+m.aleem_18626@khi.iba.edu.pk
+m.feroze_18641@khi.iba.edu.pk
+q.fatima_18648@khi.iba.edu.pk
+h.fudda_18643@khi.iba.edu.pk
+i.khan_19683@khi.iba.edu.pk
