@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>310</x>
+      <y>300</y>
+      <w>340</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>CompositePatternDemo
+--
++main(): void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>310</x>
+      <y>550</y>
+      <w>340</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>Employee
+--
+-name: String
+-dept: String
+-salary : int
+-subordinates: List&lt;Employee&gt;
+--
++Employee(name: String, dept: String, salary, float)
++add(employee: Employee): void
++remove(employee: Employee): void
++getSubordinates(): List&lt;Employee&gt;
++toString(): String</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>470</x>
+      <y>370</y>
+      <w>60</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+asks</panel_attributes>
+    <additional_attributes>10.0;180.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>470</x>
+      <y>490</y>
+      <w>280</w>
+      <h>210</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+has list of employees</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;20.0;260.0;20.0;260.0;190.0;180.0;190.0</additional_attributes>
+  </element>
+</diagram>
