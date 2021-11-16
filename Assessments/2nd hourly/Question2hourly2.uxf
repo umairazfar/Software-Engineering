@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>14</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>560</x>
+      <y>168</y>
+      <w>182</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;interface&gt;&gt;
+Info
+--
++ GetName():String
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>140</x>
+      <y>476</y>
+      <w>364</w>
+      <h>196</h>
+    </coordinates>
+    <panel_attributes>Student
+--
+~ name:String
+- semester:String
+_- count:int_
+--
++ Student(name:String)
++ GetName():String
+# AllocateCourses(course:Course):void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>490</x>
+      <y>546</y>
+      <w>420</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+registers to &gt;
+r1=-courses
+m1=0..5</panel_attributes>
+    <additional_attributes>280.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>882</x>
+      <y>476</y>
+      <w>518</w>
+      <h>266</h>
+    </coordinates>
+    <panel_attributes>Course
+--
+- credit_hours:int
+- name:String
+- description:String
+- code:String
+--
++ Course(c_h:int, name:String, desc:String, code:String)
++ GetHours():int
++ GetName():String
++ GetDescription():String
++ GetCode():String</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>686</x>
+      <y>266</y>
+      <w>448</w>
+      <h>238</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0;300.0;70.0;300.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>294</x>
+      <y>266</y>
+      <w>350</w>
+      <h>238</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>230.0;10.0;230.0;70.0;10.0;70.0;10.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>112</x>
+      <y>70</y>
+      <w>1316</w>
+      <h>742</h>
+    </coordinates>
+    <panel_attributes>Default Package</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
