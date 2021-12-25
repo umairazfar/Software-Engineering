@@ -1,0 +1,9 @@
+Desktop:-
+
+https://www.figma.com/proto/Wyyy9ZVGyevuX53KrCR62e/Task-Management-System?node-id=451%3A365&scaling=scale-down&starting-point-node-id=451%3A365
+
+Mobile:-
+
+https://www.figma.com/proto/Wyyy9ZVGyevuX53KrCR62e/Task-Management-System?node-id=438%3A444&scaling=scale-down&page-id=8%3A13&starting-point-node-id=438%3A444
+
+Side note(only the task named "Project A" has all the functionality and when you see it you'll know why)
